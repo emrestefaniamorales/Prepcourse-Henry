@@ -1,2 +1,2 @@
 # Prepcourse-Henry
-Prepositorio de prueba 
+Repositorio de prueba 
